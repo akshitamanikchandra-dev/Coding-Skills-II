@@ -55,6 +55,3 @@ Smart Route Planner
 
 ---
 
-## ✨ Author
-
-Poluri Pavani
