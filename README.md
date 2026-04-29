@@ -34,13 +34,7 @@ A web-based application that finds the shortest path between locations using Dij
 
 ![App Screenshot](Screenshot.png)
 
----
 
-## 🔗 Live Demo
-
-Coming soon...
-
----
 
 ## 📁 Project Structure
 
