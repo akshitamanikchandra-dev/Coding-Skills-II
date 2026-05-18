@@ -32,12 +32,10 @@ A web-based application that finds the shortest path between locations using Dij
 
 ## 📷 Preview
 
-[App Screenshot 1](Screenshot.png)
-[App Screenshot 2](SmartRoute.jpg)
-
-
-
-## 📁 Project Structure
+<p>
+	<img src="./Screenshot.png" alt="App Screenshot 1" style="max-width:600px; margin-right:10px;" />
+	<img src="./SmartRoute.jpg" alt="App Screenshot 2" style="max-width:600px;" />
+</p>
 
 ```
 Smart Route Planner
