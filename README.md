@@ -32,7 +32,8 @@ A web-based application that finds the shortest path between locations using Dij
 
 ## 📷 Preview
 
-![App Screenshot](Screenshot.png)
+[App Screenshot 1](Screenshot.png)
+[App Screenshot 2](SmartRoute.jpg)
 
 
 
